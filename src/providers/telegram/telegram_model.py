@@ -29,6 +29,26 @@ HEBRON_CHANNELS = [
     "bietommar",
     "S3EERR",
     "saeare",
+    "From_hebron",
+    "He_hebron",
+    "hebronlive2",
+    "hebronnews2",
+    "HebronNewss",
+    "here_hebron_news",
+    "PalestineTv1",
+    "ultrapalestine",
+    "PalestineNowGazaa",
+    "Palestine986",
+    "Journalists_Palestine",
+    "PalestineExchange",
+    "PalestineO7ctober",
+    "Palestined",
+    "chadashotharhevron",
+    "khalelnews",
+    "abn_alkhalil_1987",
+    "chathebron",
+    "yatamedan",
+    
 ]
 
 HEBRON_KEYWORDS = [
@@ -82,6 +102,9 @@ HEBRON_KEYWORDS = [
     "شيوخ العروب",
     "العروب",
     "الفوار",
+    "5016",
+    "جيش",
+    
 ]
 
 # Etzion configuration
